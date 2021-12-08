@@ -7,7 +7,7 @@ This project is implemented using Spring Boot and H2 database for different file
 - Upload files
 - Download file using id
 - Get list of all files
-- Get all files taged to a specific tag
+- Get all files tagged to a specific tag
 
 ## Project Set Up
 ### 1. Download the repository
